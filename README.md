@@ -1,2 +1,1 @@
-# First-Assignment-
-The first assignment for APCSP
+# As technology adances there are more jobs that require Computer Science and these jobs will be the most important jobs in the near future. As they would be more important the average salary for a computer science based jobs has increased and will continue to increase. Thats the reason why more people should study computer science.
